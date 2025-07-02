@@ -7,14 +7,6 @@ A full-stack CRUD system using:
 
 ---
 
-## 📁 Folder Structure
-managing-products/
-│
-├── backend/ # Express.js API
-├── frontend/ # Flutter app
-├── database/ # SQL script (schema + sample data)
-└── README.md # Project documentation
-
 ## 🚀 Features
 
 - View all products
