@@ -23,3 +23,11 @@ managing-products/
 - Delete products
 - Backend API connected to SQL Server
 - Flutter frontend using Provider for state management
+
+  ### ✅ Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/product-crud-system.git
+cd product-crud-system
+
+
