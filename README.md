@@ -27,7 +27,7 @@ managing-products/
   ### ✅ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/product-crud-system.git
-cd product-crud-system
+git clone https://github.com/pheaktra1680/Managing-Products.git
+cd Managing-Products
 
 
